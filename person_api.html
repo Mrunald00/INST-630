@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href=""></link>
+    <title>chart</title>
+  </head>
+  <body>
+    <h1>Top 200 Memorable People in 2022</h1>
+    <canvas id="myChart"></canvas>
+  <script>
+
+  const api_url = 'https://api.pantheon.world/person';
+  async function getPerson() {
+  const response = await fetch(api_url);
+  const data = await response.json();
+  console.log(data); //shows all data，（need to wait for a while）
+  
+  function getGender(){
+    for(let i=1; i<data.length; i++){
+    console.log(data[i].gender)
+    }
+  }
+  getGender();// you can now see all the gender information
+
+}
+
+  getPerson();
+
+  </script>
+  </body>
+</html>
