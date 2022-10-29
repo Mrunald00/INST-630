@@ -11,4 +11,4 @@ https://d3js.org/
 
 Live sites of demos: </br>
 https://chocolate-enormous-alder.glitch.me/person_api%3Amrunal.html  </br>
-https://person-api-hilda.glitch.me
+https://person-api-hilda.glitch.me/person_api.html
