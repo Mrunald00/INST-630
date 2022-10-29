@@ -9,6 +9,6 @@ Our libraries:  </br>
 https://p5js.org/  </br>
 https://d3js.org/
 
-Our live: </br>
+Live sites of demos: </br>
 https://chocolate-enormous-alder.glitch.me/person_api%3Amrunal.html  </br>
-https://glitch.com/edit/#!/person-api-hilda
+[https://glitch.com/edit/#!/person-api-hilda]
