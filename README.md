@@ -1,6 +1,6 @@
 # INST-630
 
-THis is the Repository of Mrunal and Hilda. We have tried D3.js and P5.js so far and built some demos for our final project.
+This is the Repository of Mrunal and Hilda.In this project we will explore the most memorable people in the history and dig into the implied gender issues.  We have tried D3.js and P5.js so far and built some demos for our final project.
 
 Our API: </br>
 https://pantheon.world/data/api
